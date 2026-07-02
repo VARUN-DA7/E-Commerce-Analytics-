@@ -36,7 +36,8 @@ Customer Acquisition Cost
 
 ## Dashboards
 
-<img width="1436" height="665" alt="E_Commerce_Excel_dashboard_screenshot" src="https://github.com/user-attachments/assets/7826673b-6f15-43b9-99c0-ad4c413e1fe3" />
+<img width="1481" height="783" alt="E-Commerce_Excel_dashboard_screenshot" src="https://github.com/user-attachments/assets/15f78287-7f34-4fcd-95c2-f1cd46825347" />
+
 
 <img width="1525" height="850" alt="E-Commerce_PowerBI_dashboard_screenshot" src="https://github.com/user-attachments/assets/8a28be6f-5183-42d0-8372-b39d68808e7e" />
 
